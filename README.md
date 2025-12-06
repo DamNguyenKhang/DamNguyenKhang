@@ -40,4 +40,4 @@ I'm a passionate backend developer focused on building scalable and efficient ap
 Feel free to reach out for collaboration or just a chat!
 
 ---
-⭐️ From [Dam Nguyen Khang](https://github.com/your-username)
+⭐️ From [Dam Nguyen Khang](https://github.com/DamNguyenKhang/DamNguyenKhang)
